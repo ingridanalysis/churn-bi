@@ -1,0 +1,24 @@
+streamlit
+pandas
+plotly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adição do requirements.txt com bibliotecas necessárias
