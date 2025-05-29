@@ -27,7 +27,3 @@ if uploaded_file is not None:
     fig.update_layout(xaxis_tickangle=-45)
     
     st.plotly_chart(fig, use_container_width=True)
-
-
-
-Criação do app.py com o código do BI
